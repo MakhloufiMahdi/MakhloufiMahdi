@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Welcome to My GitHub Profile!  
 
-<!--
-**MakhloufiMahdi/MakhloufiMahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Business Intelligence student at ESEN** with a strong foundation in **Data Analysis, Data Visualization, and Storytelling with Data**.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills  
+- **Programming:** Python, SQL  
+- **Business Intelligence:** Power BI, Excel  
+- **Data Analysis:** Statistics, Football Analysis  
+- **Web Technologies:** Web Scraping  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+I am open to new opportunities. Feel free to reach out!  
+
+📧 **Email:** [mahdi.makhloufi@esen.tn](mailto:mahdi.makhloufi@esen.tn)  
+
+## 🚀 Let's Connect & Innovate!  
+Thank you for visiting my GitHub profile. Let's innovate the world of data together!  
