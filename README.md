@@ -13,5 +13,5 @@ I am open to new opportunities. Feel free to reach out!
 
 📧 **Email:** [mahdi.makhloufi@esen.tn](mailto:mahdi.makhloufi@esen.tn)  
 
-## 🚀 Let's Connect & Innovate!  
+ 
 Thank you for visiting my GitHub profile. Let's innovate the world of data together!  
