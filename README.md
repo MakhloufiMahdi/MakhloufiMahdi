@@ -2,11 +2,8 @@
 
 I am a **Business Intelligence student at ESEN** with a strong foundation in **Data Analysis, Data Visualization, and Storytelling with Data**.  
 
-## 🛠️ Skills  
-- **Programming:** Python, SQL  
-- **Business Intelligence:** Power BI, Excel  
-- **Data Analysis:** Statistics, Football Analysis  
-- **Web Technologies:** Web Scraping  
+## 🛠️  Languages and Tools
+ Python, SQL , Power BI, Excel ,Statistics, Football Analysis , Web Scraping ,Pandas,Numpy,
 
 ## 📫 Contact  
 I am open to new opportunities. Feel free to reach out!  
